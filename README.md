@@ -18,7 +18,7 @@ I'm a *Data Science Enthusiast* with a passion for *Machine Learning, Data Analy
 
 ## 📌 Featured Projects  
 🚀 [Simple Student Marks Manager](https://github.com/sushma-prog/Python_Basics/blob/main/students_marks_manager.py) – A Python-based project for managing student records.  
-📊 [Titanic Data Analysis](#) – Exploratory data analysis on the Titanic dataset. (Coming soon!)  
+📊 [Titanic Data Analysis](#) – Exploratory data analysis on the Titanic dataset. (In Process!)  
 
 ## 📫 Let's Connect  
 📧 Email: [sandanshivsunil636@gmail.com](mailto:sandanshivsunil636@gmail.com)  
