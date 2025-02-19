@@ -1,7 +1,7 @@
 # Hi there, I'm Sushma! 👋  
 
 ## 🚀 About Me  
-I'm a *Data Science Enthusiast* with a passion for *Machine Learning, Data Analytics, and AI. Currently, I'm in my **third year of BTech in Data Science*, building a strong foundation in Python, SQL, and statistics. I enjoy solving real-world problems through data-driven insights.
+I'm a Data Science Enthusiast with a passion for Machine Learning, Data Analytics, and AI. Currently in my third year of BTech in Data Science, I’m building a strong foundation in Python, SQL, statistics, and data visualization. I enjoy solving real-world problems and uncovering insights through data-driven solutions.
 
 ## 🔧 Tech Stack  
 - *Languages:* Python, SQL  
