@@ -20,9 +20,6 @@ I'm a Data Science Enthusiast with a passion for Machine Learning, Data Analytic
 🚀 [Simple Student Marks Manager](https://github.com/sushma-prog/Python_Basics/blob/main/students_marks_manager.py) – A Python-based project for managing student records.  
 📊 [Titanic Data Analysis](#) – Exploratory data analysis on the Titanic dataset. (In Progress!)  
 ### 🔹 Customer Churn Prediction
-
-<img src="https://github.com/sushma-prog/customer-churn-prediction/blob/main/images/shap_summary_plot.png" width="400"/>
-
 - 🔍 Built an end-to-end ML pipeline using XGBoost, SHAP & LIME  
 - 📊 Telco dataset to predict customer churn  
 - 🔎 Includes model interpretation + SQLite export  
